@@ -1,4 +1,4 @@
-# http://o2tree.github.io/KTH
+#  o2tree.github.io/KTH
 -  echo "# KTH" >> README.md
 -  git init
 -  git add README.md
